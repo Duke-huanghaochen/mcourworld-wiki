@@ -30,6 +30,7 @@ jobs:
 
       - name: Deploy to GitHub Pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/Duke-huanghaochen/mcourworld-wiki.git
           mkdocs gh-deploy --force --clean --remote-name origin --remote-branch gh-pages
