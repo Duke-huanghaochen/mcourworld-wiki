@@ -1,0 +1,10 @@
+site_name: MC Ouwaorld wiki
+theme:
+  name: material
+nav:
+  - 首页: index.md
+  - 服务器宪章: charter.md
+  - 管理员: admins.md
+  - 入服教程: guide.md
+  - 更新日志: changelog.md
+  - 服务器历史: history.md
