@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77c4b43b53cc15c5",
+        "id": "212de364a91c4eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "fdff506abe2fd85d",
+            "id": "c9f57c0dfdde819f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/index-old.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index-old"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/index-old.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,9 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdff506abe2fd85d",
+  "active": "c9f57c0dfdde819f",
   "lastOpenFiles": [
-    "docs/index.md",
+    "index.md",
+    "docs/index-old.md",
+    "gitigrone.md",
     "未命名.canvas",
     "未命名.base"
   ]
