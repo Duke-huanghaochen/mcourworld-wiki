@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index-old.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-old"
+              "title": "index"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/index-old.md",
+            "file": "docs/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71cbe6906e9810a9",
+  "active": "c9f57c0dfdde819f",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/index-old.md",
+    "docs/index.md",
     "gitigrone.md",
     "未命名.canvas",
     "未命名.base"
