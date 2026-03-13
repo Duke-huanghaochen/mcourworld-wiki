@@ -177,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9f57c0dfdde819f",
+  "active": "d441397abd31774a",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "/README.md",
+    "/LICENSE",
     "/mkdocs.yml",
     "docs/index-old.md",
     "docs/index.md",
